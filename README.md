@@ -1,9 +1,9 @@
- ###                                                                   Hi there 👋 
+ ##                                                                   Hi there 👋 
 
 
  I am [Carmela Rey](https://github.com/Cdrcar/Portfolio-CarmelaRey) and I am currently working on becoming a **Full Stack Web Developer**
  
- ## Languages and Tools
+ # Languages and Tools
  
 ![html](https://user-images.githubusercontent.com/117651175/227209964-1c5b8ffe-1b28-44c9-99a9-84903c4e1991.png)
 ![css3](https://user-images.githubusercontent.com/117651175/227210448-b57078e4-d138-4d77-ad5a-a829a4808394.png)
@@ -13,8 +13,12 @@
 
 
  
- ## Connect with me
+ # Connect with me
  
+ ![linkedin (1)](https://user-images.githubusercontent.com/117651175/227212674-1924f5f7-47f9-4425-a8e8-ef183a7da534.png)
+ <a href="https://www.instagram.com/abhisheknaiidu/" rel="nofollow">
+  <img align="left" alt="Abhishek's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" style="max-width: 100%;">
+</a>
  
  
 <!--
