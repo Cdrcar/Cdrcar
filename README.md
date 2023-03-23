@@ -19,11 +19,11 @@
  <a href="https://www.instagram.com/carmelaarey/?next=%2F/" rel="nofollow">
   <img align="left" alt="Carmela's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" style="max-width: 100%;">
 </a>
- <br>
+ 
  <a href="https://www.linkedin.com/in/carmelarey/" rel="nofollow">
   <img align="left" alt="Carmela's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" style="max-width: 100%;">
 </a>
-<br>
+
 ![email](https://user-images.githubusercontent.com/117651175/227232129-a36736a2-ba9b-446e-be3b-d4d54a1cd340.png)
  
 <!--
