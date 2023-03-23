@@ -24,7 +24,8 @@
   <img align="left" alt="Carmela's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" style="max-width: 100%;">
 </a>
 
-![email](https://user-images.githubusercontent.com/117651175/227232129-a36736a2-ba9b-446e-be3b-d4d54a1cd340.png)
+![mailto:carmela881@outlook.com](https://user-images.githubusercontent.com/117651175/227233507-3f38f957-bfdc-41e3-8253-395abd98c036.png)
+
  
 <!--
 **Cdrcar/Cdrcar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
