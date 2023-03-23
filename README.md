@@ -5,7 +5,7 @@
  
  ## Languages and Tools
  
- ![HTML](https://user-images.githubusercontent.com/117651175/227207120-d2565b02-8bb5-44ae-9855-f7750c8441cd.png)
+ ![HTML](https://user-images.githubusercontent.com/117651175/227207120-d2565b02-8bb5-44ae-9855-f7750c8441cd.png =200x200)
 
 
  
