@@ -24,11 +24,13 @@
   <img align="left" alt="Carmela's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" style="max-width: 100%;">
 </a>
 
-![mailto:carmela881@outlook.com](https://user-images.githubusercontent.com/117651175/227233507-3f38f957-bfdc-41e3-8253-395abd98c036.png)
 
  
 <!--
 **Cdrcar/Cdrcar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+
+![mailto:carmela881@outlook.com](https://user-images.githubusercontent.com/117651175/227233507-3f38f957-bfdc-41e3-8253-395abd98c036.png)
 
 Here are some ideas to get you started:
 
