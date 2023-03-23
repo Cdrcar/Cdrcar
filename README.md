@@ -4,6 +4,9 @@
  I am [Carmela Rey](https://github.com/Cdrcar/Portfolio-CarmelaRey) and I am currently working on becoming a **Full Stack Web Developer**
  
  ## Languages and Tools
+ 
+ ![HTML](https://user-images.githubusercontent.com/117651175/227207120-d2565b02-8bb5-44ae-9855-f7750c8441cd.png)
+
 
  
  ## Connect with me
