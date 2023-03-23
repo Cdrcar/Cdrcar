@@ -9,6 +9,8 @@
 ![css3](https://user-images.githubusercontent.com/117651175/227210448-b57078e4-d138-4d77-ad5a-a829a4808394.png)
 ![javascript](https://user-images.githubusercontent.com/117651175/227210659-d32e7636-0448-4083-a258-45156edb302e.png)
 ![jquery](https://user-images.githubusercontent.com/117651175/227211310-0b1088b4-92b3-4c9f-847b-2778031d2b10.png)
+![nodejs](https://user-images.githubusercontent.com/117651175/227211621-25435d7e-8c74-44a8-a3ac-90d3e3c7f9ca.png)
+
 
  
  ## Connect with me
