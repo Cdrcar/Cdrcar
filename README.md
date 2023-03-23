@@ -5,7 +5,7 @@
  
  ## Languages and Tools
  
-![html3](https://user-images.githubusercontent.com/117651175/227209422-bf2a677d-e715-4721-8db8-922cbddea9cb.png)
+![html](https://user-images.githubusercontent.com/117651175/227209964-1c5b8ffe-1b28-44c9-99a9-84903c4e1991.png)
 
  
  ## Connect with me
