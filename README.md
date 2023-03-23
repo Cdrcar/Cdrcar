@@ -5,8 +5,7 @@
  
  ## Languages and Tools
  
- ![HTML](https://user-images.githubusercontent.com/117651175/227207120-d2565b02-8bb5-44ae-9855-f7750c8441cd.png =200x200)
-
+![html3](https://user-images.githubusercontent.com/117651175/227209422-bf2a677d-e715-4721-8db8-922cbddea9cb.png)
 
  
  ## Connect with me
