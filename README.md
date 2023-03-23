@@ -7,6 +7,7 @@
  
 ![html](https://user-images.githubusercontent.com/117651175/227209964-1c5b8ffe-1b28-44c9-99a9-84903c4e1991.png)
 ![css3](https://user-images.githubusercontent.com/117651175/227210448-b57078e4-d138-4d77-ad5a-a829a4808394.png)
+![javascript](https://user-images.githubusercontent.com/117651175/227210659-d32e7636-0448-4083-a258-45156edb302e.png)
 
  
  ## Connect with me
