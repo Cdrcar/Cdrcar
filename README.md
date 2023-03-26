@@ -3,7 +3,7 @@
 
  I am [Carmela Rey](https://github.com/Cdrcar/Portfolio-CarmelaRey) and I am currently working on becoming a **Full Stack Web Developer.**
 
- 
+
    > Languages and Tools
    
 ![html](https://user-images.githubusercontent.com/117651175/227209964-1c5b8ffe-1b28-44c9-99a9-84903c4e1991.png)
