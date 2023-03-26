@@ -1,7 +1,8 @@
  ##                                                                   Hi there 👋 
 
-
+```
  I am [Carmela Rey](https://github.com/Cdrcar/Portfolio-CarmelaRey) and I am currently working on becoming a **Full Stack Web Developer.**
+ ```
  
  
    > Languages and Tools
@@ -12,15 +13,12 @@
 ![jquery](https://user-images.githubusercontent.com/117651175/227211310-0b1088b4-92b3-4c9f-847b-2778031d2b10.png)
 ![nodejs](https://user-images.githubusercontent.com/117651175/227211621-25435d7e-8c74-44a8-a3ac-90d3e3c7f9ca.png)
 
-
-  ```
-Connect
-  ```
+   > Connect
  
-> <a href="https://www.instagram.com/carmelaarey/?next=%2F/" rel="nofollow">
+<a href="https://www.instagram.com/carmelaarey/?next=%2F/" rel="nofollow">
   <img align="left" alt="Carmela's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" style="max-width: 100%;">
 </a>
-> <a href="https://www.linkedin.com/in/carmelarey/" rel="nofollow">
+<a href="https://www.linkedin.com/in/carmelarey/" rel="nofollow">
   <img align="left" alt="Carmela's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" style="max-width: 100%;">
 </a>
 
