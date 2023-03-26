@@ -25,6 +25,19 @@
 </a>
 
 
+
+> In this way you define a quoted block of text.
+You can skip the initial `>` in intermediate lines 
+if you are in the same paragraph
+>
+>> (you may nest levels)
+
+    > but you can't indent wit
+
+ 
+ 
+ 
+ 
  
 <!--
 **Cdrcar/Cdrcar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
