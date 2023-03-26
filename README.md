@@ -14,32 +14,17 @@
 
 
   ```
-  <a href="https://www.instagram.com/carmelaarey/?next=%2F/" rel="nofollow">
-  <img align="left" alt="Carmela's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" style="max-width: 100%;">
-</a>
- 
-<a href="https://www.linkedin.com/in/carmelarey/" rel="nofollow">
-  <img align="left" alt="Carmela's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" style="max-width: 100%;">
-</a>
+Connect
   ```
-    
-    
-
-
-
-  > Connect
  
-<a href="https://www.instagram.com/carmelaarey/?next=%2F/" rel="nofollow">
+> <a href="https://www.instagram.com/carmelaarey/?next=%2F/" rel="nofollow">
   <img align="left" alt="Carmela's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" style="max-width: 100%;">
 </a>
- 
-<a href="https://www.linkedin.com/in/carmelarey/" rel="nofollow">
+> <a href="https://www.linkedin.com/in/carmelarey/" rel="nofollow">
   <img align="left" alt="Carmela's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" style="max-width: 100%;">
 </a>
 
 
-
- 
 <!--
 **Cdrcar/Cdrcar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
