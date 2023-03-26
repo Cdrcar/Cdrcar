@@ -5,8 +5,8 @@
  
  
    > Languages and Tools
- >
- >![html](https://user-images.githubusercontent.com/117651175/227209964-1c5b8ffe-1b28-44c9-99a9-84903c4e1991.png)
+   
+![html](https://user-images.githubusercontent.com/117651175/227209964-1c5b8ffe-1b28-44c9-99a9-84903c4e1991.png)
 ![css3](https://user-images.githubusercontent.com/117651175/227210448-b57078e4-d138-4d77-ad5a-a829a4808394.png)
 ![javascript](https://user-images.githubusercontent.com/117651175/227210659-d32e7636-0448-4083-a258-45156edb302e.png)
 ![jquery](https://user-images.githubusercontent.com/117651175/227211310-0b1088b4-92b3-4c9f-847b-2778031d2b10.png)
@@ -17,12 +17,12 @@
 
 
   > Connect
->
->  <a href="https://www.instagram.com/carmelaarey/?next=%2F/" rel="nofollow">
+ 
+<a href="https://www.instagram.com/carmelaarey/?next=%2F/" rel="nofollow">
   <img align="left" alt="Carmela's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" style="max-width: 100%;">
 </a>
  
-> <a href="https://www.linkedin.com/in/carmelarey/" rel="nofollow">
+<a href="https://www.linkedin.com/in/carmelarey/" rel="nofollow">
   <img align="left" alt="Carmela's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" style="max-width: 100%;">
 </a>
 
