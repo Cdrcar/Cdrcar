@@ -12,24 +12,17 @@
 ![nodejs](https://user-images.githubusercontent.com/117651175/227211621-25435d7e-8c74-44a8-a3ac-90d3e3c7f9ca.png)
 
 
- 
- - Connect
- 
 
- <a href="https://www.instagram.com/carmelaarey/?next=%2F/" rel="nofollow">
+
+
+> Connect
+>  <a href="https://www.instagram.com/carmelaarey/?next=%2F/" rel="nofollow">
   <img align="left" alt="Carmela's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" style="max-width: 100%;">
 </a>
  
- <a href="https://www.linkedin.com/in/carmelarey/" rel="nofollow">
+> <a href="https://www.linkedin.com/in/carmelarey/" rel="nofollow">
   <img align="left" alt="Carmela's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" style="max-width: 100%;">
 </a>
-
-
-
-> In this way you define a quoted block of text.
-You can skip the initial `>` in intermediate lines 
-if you are in the same paragraph
->
 >> (you may nest levels)
 
     > but you can't indent wit
