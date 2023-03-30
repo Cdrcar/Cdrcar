@@ -1,9 +1,9 @@
 
-<h2 align="center""> Hi there 👋</h2>
+<h2 align="center"> Hi there 👋</h2>
 		   <br>
 
 
- I am [Carmela Rey](https://github.com/Cdrcar/Portfolio-CarmelaRey) and I am currently working on becoming a **Full Stack Web Developer.**
+<p align="center"> I am [Carmela Rey](https://github.com/Cdrcar/Portfolio-CarmelaRey) and I am currently working on becoming a **Full Stack Web Developer.**</p>
 
 
 	                                                        Languages and Tools
