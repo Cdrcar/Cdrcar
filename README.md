@@ -21,9 +21,7 @@ I am [Carmela Rey](https://github.com/Cdrcar/Portfolio-CarmelaRey) and I am curr
 	<code><img height="50" src="https://user-images.githubusercontent.com/25181517/183859966-a3462d8d-1bc7-4880-b353-e2cbed900ed6.png" alt="Express" title="Express" /></code>
 	<code><img height="50" src="https://user-images.githubusercontent.com/117651175/228822470-a3693c21-acf4-4a66-9893-c69d0cb944d0.png" alt="Heroku"  title="Heroku" /></code>
 	</div>
-		   
-		   
-		
+		   		  		
 <br>
 
 
@@ -39,6 +37,12 @@ I am [Carmela Rey](https://github.com/Cdrcar/Portfolio-CarmelaRey) and I am curr
 <a href="https://www.linkedin.com/in/carmelarey/" rel="nofollow">
   <img align="left" alt="Carmela's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" style="max-width: 100%;">
 </a>
+
+<a href="mailto:carmela881@outlook.com" rel="nofollow">
+  <img align="left" alt="Carmela's LinkedIN" width="22px" src="https://user-images.githubusercontent.com/117651175/228826082-a329c015-eef3-4be6-84d4-42fce4ab683a.png" style="max-width: 100%;">
+</a>
+
+
 
 
 <!--
