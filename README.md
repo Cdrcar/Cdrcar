@@ -1,4 +1,5 @@
-<div font-size="50" align="center">Hi there 👋  I am [Carmela Rey](https://github.com/Cdrcar/Portfolio-CarmelaRey) and I am currently working on becoming a **Full Stack Web Developer.**</div>
+<div font-size="50" align="center">Hi there 👋</div>
+<h2 style="text-align: center;"> Hi there 👋</h2>
 
 
  I am [Carmela Rey](https://github.com/Cdrcar/Portfolio-CarmelaRey) and I am currently working on becoming a **Full Stack Web Developer.**
