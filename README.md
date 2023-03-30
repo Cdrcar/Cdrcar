@@ -7,12 +7,7 @@
 
 
 	> Languages and Tools
-	>
-	> 
-		   
-		
-
-<div align="center">
+		   <div align="center">
 	<code><img height="50" src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png" alt="HTML" title="HTML" /></code>
 	<code><img height="50" src="https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png" alt="CSS" title="CSS" /></code>
 	<code><img height="50" src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png" alt="JavaScript" title="JavaScript" /></code>
@@ -23,6 +18,11 @@
 	<code><img height="50" src="https://user-images.githubusercontent.com/25181517/183859966-a3462d8d-1bc7-4880-b353-e2cbed900ed6.png" alt="Express" title="Express" /></code>
 	<code><img height="50" src="https://user-images.githubusercontent.com/117651175/228822470-a3693c21-acf4-4a66-9893-c69d0cb944d0.png" alt="Heroku"  title="Heroku" /></code>
 	</div>
+		   
+		   
+		
+
+
 
 
    
