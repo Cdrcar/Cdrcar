@@ -6,7 +6,8 @@
  I am [Carmela Rey](https://github.com/Cdrcar/Portfolio-CarmelaRey) and I am currently working on becoming a **Full Stack Web Developer.**
 
 
-	 <h3>Languages and Tools</h3>
+	                                                              Languages and Tools
+		 
 
 		   
 <div align="center">
