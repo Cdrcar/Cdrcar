@@ -1,4 +1,4 @@
-<div align="center"><storng>Hi there 👋</strong></div>
+<div font-size="14" align="center">Hi there 👋</div>
 
 
  I am [Carmela Rey](https://github.com/Cdrcar/Portfolio-CarmelaRey) and I am currently working on becoming a **Full Stack Web Developer.**
