@@ -31,7 +31,7 @@ I am [Carmela Rey](https://github.com/Cdrcar/Portfolio-CarmelaRey) and I am curr
    
 
 
-	                                                        Conect
+	                                                                Conect
  
 <a href="https://www.instagram.com/carmelaarey/?next=%2F/" rel="nofollow">
   <img align="left" alt="Carmela's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" style="max-width: 100%;">
