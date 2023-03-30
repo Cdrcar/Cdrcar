@@ -3,7 +3,7 @@
 		   <br>
 
 
-<p align="center"> I am [Carmela Rey](https://github.com/Cdrcar/Portfolio-CarmelaRey) and I am currently working on becoming a **Full Stack Web Developer.**</p>
+I am [Carmela Rey](https://github.com/Cdrcar/Portfolio-CarmelaRey) and I am currently working on becoming a **Full Stack Web Developer.**
 
 
 	                                                        Languages and Tools
