@@ -39,7 +39,7 @@ I am [Carmela Rey](https://github.com/Cdrcar/Portfolio-CarmelaRey) and I am curr
 </a>
 
 <a href="mailto:carmela881@outlook.com" rel="nofollow">
-  <img align="left" alt="Carmela's LinkedIN" width="22px" src="https://user-images.githubusercontent.com/117651175/228826082-a329c015-eef3-4be6-84d4-42fce4ab683a.png" style="max-width: 100%;">
+  <img align="left" alt="Carmela's LinkedIN" width="25px" src="https://user-images.githubusercontent.com/117651175/228826082-a329c015-eef3-4be6-84d4-42fce4ab683a.png" style="max-width: 100%;">
 </a>
 
 
