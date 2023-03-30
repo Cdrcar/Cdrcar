@@ -6,7 +6,7 @@
 
    > Languages and Tools
    
-![html-5 (1)](https://user-images.githubusercontent.com/117651175/228794004-bc18049b-df50-4b50-8641-ef9986f091d7.png)
+![html-5](https://user-images.githubusercontent.com/117651175/228794296-489d80ad-da0e-4fcf-aa3a-1112f1e1e36b.png)
 ![css3](https://user-images.githubusercontent.com/117651175/227210448-b57078e4-d138-4d77-ad5a-a829a4808394.png)
 ![javascript](https://user-images.githubusercontent.com/117651175/227210659-d32e7636-0448-4083-a258-45156edb302e.png)
 ![jquery](https://user-images.githubusercontent.com/117651175/227211310-0b1088b4-92b3-4c9f-847b-2778031d2b10.png)
