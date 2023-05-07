@@ -31,7 +31,6 @@ I am [Carmela Rey](https://github.com/Cdrcar/Portfolio-CarmelaRey) and I am curr
 
 	                                                       Connect
  <div align="center">
-	<a href="https://www.instagram.com/carmelaarey/?next=%2F/" rel="nofollow"><img  height="40" alt="Carmela's Instagram" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" style="max-width: 100%;"></a>
 	<a href="https://www.linkedin.com/in/carmelarey/" rel="nofollow"><img height="40" alt="Carmela's LinkedIN" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" style="max-width: 100%;"></a>
 	<a href="mailto:carmela881@outlook.com" rel="nofollow"> <img  height="40" alt="Carmela's LinkedIN"  src="https://user-images.githubusercontent.com/117651175/228826082-a329c015-eef3-4be6-84d4-42fce4ab683a.png" style="max-width: 100%;"></a>
 </div>
@@ -55,6 +54,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+<a href="https://www.instagram.com/carmelaarey/?next=%2F/" rel="nofollow"><img  height="40" alt="Carmela's Instagram" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" style="max-width: 100%;"></a>
 
 
 ![html-5 (1)](https://user-images.githubusercontent.com/117651175/228794516-856622e8-0df1-4fde-a97d-64a92edf0b05.png)
