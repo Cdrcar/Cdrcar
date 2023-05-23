@@ -6,7 +6,7 @@
 I am [Carmela Rey](https://github.com/Cdrcar/Portfolio-CarmelaRey) and I am currently working on becoming a **Full Stack Web Developer.**
 
 
-	                                                    Languages and Tools
+	                                                   Languages and Tools
 		 
 
 		   
@@ -29,7 +29,7 @@ I am [Carmela Rey](https://github.com/Cdrcar/Portfolio-CarmelaRey) and I am curr
    
 
 
-	                                                       Connect
+	                                                      Connect
  <div align="center">
 <a href="https://www.linkedin.com/in/carmelarey/" rel="nofollow"><img height="40" alt="Carmela's LinkedIN" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" style="max-width: 100%;"></a>
 	<a href="mailto:carmela881@outlook.com" rel="nofollow"> <img  height="40" alt="Carmela's LinkedIN"  src="https://user-images.githubusercontent.com/117651175/228826082-a329c015-eef3-4be6-84d4-42fce4ab683a.png" style="max-width: 100%;"></a>
