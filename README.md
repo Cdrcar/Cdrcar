@@ -31,7 +31,7 @@ I am [Carmela Rey](https://github.com/Cdrcar/Portfolio-CarmelaRey) and I am curr
 
 	                                                       Connect
  <div align="center">
-<a href="https://www.linkedin.com/in/carmelarey/" rel="nofollow"><img height="40" alt="Carmela's LinkedIN" src="https://www.flaticon.com/free-icon/linkedin_3536505?term=linkedin&page=1&position=1&origin=search&related_id=3536505" style="max-width: 100%;" style="max-width: 100%;"></a>
+<a href="https://www.linkedin.com/in/carmelarey/" rel="nofollow"><img height="40" alt="Carmela's LinkedIN" src="https://user-images.githubusercontent.com/117651175/524f469e-89f2-4f94-8339-12d3fda860ba)" style="max-width: 100%;" style="max-width: 100%;"></a>
 	<a href="mailto:carmela881@outlook.com" rel="nofollow"> <img  height="40" alt="Carmela's LinkedIN"  src="https://user-images.githubusercontent.com/117651175/228826082-a329c015-eef3-4be6-84d4-42fce4ab683a.png" style="max-width: 100%;"></a>
 </div>
 
