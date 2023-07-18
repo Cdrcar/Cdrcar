@@ -3,10 +3,11 @@
 		   <br>
 
 
-I am [Carmela Rey](https://github.com/Cdrcar/Portfolio-CarmelaRey) and I am currently working on becoming a **Full Stack Web Developer.**
+My name is [Carmela Rey](https://github.com/Cdrcar/Portfolio-CarmelaRey) and I am dedicated a **Full Stack Web Developer**, with a growing passion for creating engaging and dynamic web applications. I am currently studying Cloud to expand my skill set. Welcome to my GitHub profile!
 
 
-	                                                Languages and Tools 
+
+	Languages and Tools
 		 
 
 		   
@@ -28,11 +29,12 @@ I am [Carmela Rey](https://github.com/Cdrcar/Portfolio-CarmelaRey) and I am curr
 
    
 
+	Connect
 
-	                                                       Connect
+ <div align="center">
  <div align="center">
 <a href="https://www.linkedin.com/in/carmelarey/" rel="nofollow">
-	<img height="40" alt="Carmela's LinkedIN" src="https://user-images.githubusercontent.com/117651175/d31869c5-dfdc-4487-9768-1dbbdf061bcc" style="max-width: 100%;" style="max-width: 100%;"></a>
+	<img height="40" alt="Carmela's LinkedIN" src="https://github.com/Cdrcar/Cdrcar/assets/117651175/3d196322-ba44-4015-9f5c-8fe59f784c4f" style="max-width: 100%;"></a>
 
 	 
 <a href="mailto:carmela881@outlook.com" rel="nofollow"> 
