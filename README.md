@@ -3,7 +3,7 @@
 		   <br>
 
 
-My name is [Carmela Rey](https://github.com/Cdrcar/Portfolio-CarmelaRey) and I am dedicated a **Full Stack Web Developer**, with a growing passion for creating engaging and dynamic web applications. I am currently studying Cloud to expand my skill set. Welcome to my GitHub profile!
+My name is [Carmela Rey](https://github.com/Cdrcar/Portfolio-CarmelaRey) Welcome to my GitHub profile!
 
 
 
