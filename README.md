@@ -37,10 +37,11 @@ My name is [Carmela Rey](https://github.com/Cdrcar/Portfolio-CarmelaRey) Welcome
 <a href="https://www.linkedin.com/in/carmelarey/" rel="nofollow">
 	<img height="40" alt="Carmela's LinkedIN" src="https://github.com/Cdrcar/Cdrcar/assets/117651175/3d196322-ba44-4015-9f5c-8fe59f784c4f" style="max-width: 100%;"></a>
 
-	 
-<a href="mailto:carmela881@outlook.com" rel="nofollow"> 
+<!--	 
+<a href="mailto:car@outlook.com" rel="nofollow"> 
 	<img  height="40" alt="Carmela's email"  src="https://user-images.githubusercontent.com/117651175/228826082-a329c015-eef3-4be6-84d4-42fce4ab683a.png" style="max-width: 100%;"></a>
 </div>
+-->
 
 
 
